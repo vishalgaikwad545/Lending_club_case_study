@@ -60,3 +60,5 @@ Loan rejected: The company had rejected the loan (because the candidate does not
 
 ## Contact
 Created by [@vishalgaikwad545] - feel free to contact me!
+
+### Note : Attached pdf of the Jupyter notebook as plotly charts are not visible in GitHub.
